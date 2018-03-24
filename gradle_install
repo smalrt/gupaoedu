@@ -1,0 +1,12 @@
+1、官网下载gradle（可直接复制地址用迅雷下载）
+  http://services.gradle.org/distributions/gradle-4.4.1-bin.zip
+  
+2、解压
+
+3、配置环境变量
+  GRADLE_HOME:D:\gradle-4.4.1
+  Path:添加 %GRADLE_HOME%\bin
+  
+4、验证
+  cmd --> gradle -v
+  出现版本信息则安装完成
